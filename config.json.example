@@ -1,0 +1,6 @@
+{
+    "username": "your_minecraft_username",
+    "webhook": "your_discord_webhook_url",
+    "serverip": "192.168.x.x",
+    "serverport": 19132
+}
